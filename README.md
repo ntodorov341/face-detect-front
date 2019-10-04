@@ -1,29 +1,6 @@
 # face-detect-front
 ##### Simple app using Clarifai API to detect a face in an image. The picture can be provided by the user via URL field. Upon each entry the rank of the user is updated.
 
-
-<strong> DEMO: </strong> 
-
-(note that the first time you load the site it might take some time for it to open and for the functionality to run smoothly as heroku puts applications that have not been used in the past few minutes asleep to save resources. Any successive load after the initial one should not take that long.) 
-
-  You can see the demo of the app here - https://facial-recognition-appp.herokuapp.com/
-
-## Home page
-
-![Home page](https://i.imgur.com/fYA18sv.png)
-
-## Register
-
-![Register](https://i.imgur.com/LN1Abkg.png)
-
-## Home page (after login)
-
-![Home page login](https://i.imgur.com/0JvbU65.png)
-
-## Face detection example
-
-![Example](https://i.imgur.com/ADoWPCi.png)
-
 ### Development
 
 # Want to make the project greater by contributing? That's awesome!
